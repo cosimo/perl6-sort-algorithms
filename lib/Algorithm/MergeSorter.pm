@@ -1,3 +1,8 @@
+#
+# Code ported from the Java equivalent here:
+# http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/merge/mergen.htm
+#
+
 use v6;
 use Algorithm::InstrumentedSorter;
 
